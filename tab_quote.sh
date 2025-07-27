@@ -99,13 +99,10 @@ quotes=(
   "The remaining 10 percent of the code accounts for the other 90 percent of the development time."
 )
 
-while true; do
-  clear
-  random_index=$((RANDOM % ${#quotes[@]}))
-  echo
-  echo "Quote of the moment:"
-  echo
-  echo "\"${quotes[$random_index]}\""
-  echo
-  sleep 5
-done
+random_index=$((RANDOM % ${#quotes[@]}))
+
+echo
+echo "💬 Quote of the Tab:"
+echo
+echo "\"${quotes[$random_index]}\""
+echo
