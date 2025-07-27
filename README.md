@@ -1,11 +1,3 @@
-Awesome! Let's wrap it all up:
-
----
-
-# Project Name:
-
-**QuoteTab** — *Your daily dose of motivation & laughs on every new terminal tab!*
-
 ---
 
 # How to use QuoteTab on every new terminal tab
