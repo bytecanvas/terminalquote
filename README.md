@@ -106,9 +106,3 @@ Want to add your own quotes? Just edit the `quotes` array inside `quote_tab.sh`!
 
 Enjoy your daily boost of inspiration right in your terminal! 🚀
 
-```
-
----
-
-If you want, I can generate the full `quote_tab.sh` with all 100 quotes included — just say the word!
-```
